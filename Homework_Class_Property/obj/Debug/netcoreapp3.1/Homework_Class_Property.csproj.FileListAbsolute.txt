@@ -1,0 +1,13 @@
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.exe
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.deps.json
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.dll
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\bin\Debug\netcoreapp3.1\Homework_Class_Property.pdb
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.dll
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.pdb
+F:\YURKO\SHAG\Project C#\04_21032021_Lab_Class_Property\Homework_Class_Property\Homework_Class_Property\Homework_Class_Property\obj\Debug\netcoreapp3.1\Homework_Class_Property.genruntimeconfig.cache
