@@ -11,6 +11,7 @@ namespace Homework_Class_Property
         public string PlaceEvent { get; set; }
         DateTime date;
         public static int ID;
+        public int Count { get; set; }
         public Client client;
 
         public Event(string nameEvent, int numberPeople, string placeEvent, DateTime date,  Client client)
@@ -21,6 +22,7 @@ namespace Homework_Class_Property
             this.date = date;
             this.client = client;
             ID++;
+            Count = ID;
         }
 
         //internal void Add(Event myEvent)
@@ -34,12 +36,12 @@ namespace Homework_Class_Property
             date.AddDays(change_day);
         }
 
-        public override string ToString() => $"Event ID: {ID}\nName event: {this.NameEvent}\nNumber people: {this.NumberPeople}\n" +
+        public override string ToString() => $"Event ID: {Count}\nName event: {this.NameEvent}\nNumber people: {this.NumberPeople}\n" +
             $"Place Event: {this.PlaceEvent}\nData event: {this.date :dd.MM.yyyy}\nClient: {this.client}\n";
 
         public void Print()
         {
-            Console.WriteLine($"Event ID: {ID}\nName event: {this.NameEvent}\nNumber people: {this.NumberPeople}\n" +
+            Console.WriteLine($"Event ID: {Count}\nName event: {this.NameEvent}\nNumber people: {this.NumberPeople}\n" +
             $"Place Event: {this.PlaceEvent}\nData event: {this.date:dd.MM.yyyy}\nClient: {this.client}\n");
         }
     }

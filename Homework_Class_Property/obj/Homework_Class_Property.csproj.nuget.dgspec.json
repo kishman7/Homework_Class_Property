@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj": {}
+    "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj": {}
   },
   "projects": {
-    "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj": {
+    "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
+        "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
         "projectName": "Homework_Class_Property",
-        "projectPath": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
+        "projectPath": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
         "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
-        "outputPath": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\obj\\",
+        "outputPath": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

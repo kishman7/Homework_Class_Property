@@ -8,8 +8,8 @@ namespace Homework_Class_Property
         static void Main(string[] args)
         {
             BazaClient bazaClient = new BazaClient();
-            BazaEvent bazaEvent = new BazaEvent();
-            //List<Event> myEvent = new List<Event>();
+            //BazaEvent bazaEvent = new BazaEvent();
+            List<Event> myEvent = new List<Event>();
 
         bool action = true;
             while (action)
@@ -89,7 +89,8 @@ namespace Homework_Class_Property
                                 Event ev = new Event(nameEvent, numberPeople, placeEvent, DateTime.Now, client); // якщо знайшли, то додаємо його до події
                                 //bazaEvent.AddEvent(ev);
                                 //bazaEvent.myEvent.Add(ev);
-                                bazaEvent.myEvent.Add(ev);
+                                //bazaEvent.myEvent.Add(ev);
+                                myEvent.Add(ev);
                             }
                             else
                             {
@@ -100,16 +101,23 @@ namespace Homework_Class_Property
                     case 4:
                         {
                             Console.WriteLine("\nOur baza events: ");
-                            Console.WriteLine(bazaEvent);
+                            //Console.WriteLine(bazaEvent);
+                            foreach (var item in myEvent)
+                            {
+                                Console.WriteLine(item);
+                            }
+                            //Console.WriteLine(myEvent[0]);
                             break;
                         }
                     case 5:
                         {
                             Console.WriteLine("\nEnter ID event whiche you want delete: ");
                             int delete_event = int.Parse(Console.ReadLine());
-                            if (Event.ID == delete_event)
+                            
+                            if (myEvent.Count == delete_event)
                             {
-                                bazaEvent.myEvent.RemoveAt(delete_event - 1);
+                                //bazaEvent.myEvent.RemoveAt(delete_event - 1);
+                                myEvent.RemoveAt(delete_event - 1);
                             }
                             else
                             {
@@ -121,7 +129,8 @@ namespace Homework_Class_Property
                     case 6:
                         {
                             Console.WriteLine("\nClear baza events: ");
-                            bazaEvent.myEvent.Clear();
+                            //bazaEvent.myEvent.Clear();
+                            myEvent.Clear();
                             break;
                         }
                     case 0:
