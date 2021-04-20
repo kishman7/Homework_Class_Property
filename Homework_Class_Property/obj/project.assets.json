@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
+      "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
       "projectName": "Homework_Class_Property",
-      "projectPath": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
+      "projectPath": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property.csproj",
       "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
-      "outputPath": "F:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\obj\\",
+      "outputPath": "f:\\YURKO\\SHAG\\Project C#\\04_21032021_Lab_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\Homework_Class_Property\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

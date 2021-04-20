@@ -48,8 +48,8 @@ namespace Homework_Class_Property
                                     //Console.WriteLine("Число");
                                     telephone = Convert.ToString(perevirka);
                                     Console.Clear();
-                                    Client client = new Client(name, telephone);
-                                    bazaClient.AddClient(client);
+                                    Client client = new Client(name, telephone); // створили клієнта
+                                    bazaClient.AddClient(client); // добавили клієнта в базу клієнтів
                                     break;
                                 }
                                 catch (FormatException) // якщо в рядку є інші символи окрім числа, то телефон не створюється
